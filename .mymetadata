@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="hylPageDividedDemo"
+  id="myeclipse.1501764101555"
+  context-root="/hylPageDividedDemo"
+  j2ee-spec="6.0"
+  archive="hylPageDividedDemo.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
